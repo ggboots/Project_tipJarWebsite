@@ -1,6 +1,7 @@
-# schoolProject---TipJar
+Project_TipJarWebsite
 
 Repository Contain ***
-Swift Files - Containing App
-Website Files - Demostrate project and Web
+Website Files - Demostrate project and Website
+
+
 
